@@ -1,0 +1,11 @@
+- layout: left
+  name: McMaster University
+  dates: September 2016 - Present
+  qualification: BEng Software Engineering and Management
+  quote: >
+    Located in Hamilton, Ontario, McMaster Engineering is one of the most renowned engineering schools in Canada.
+  description: | # this will include new lines to allow paragraphs
+    At Mcmaster I am learning many career transferrable skills in leadership and effectively managing several projects at once to meet milestones on-time.
+    My fourth year courses are focused on predictive control, machine learning and real-time systems.
+
+    I am a member of the *McMaster AI Society* and spend much of my time participating in intramural sports.

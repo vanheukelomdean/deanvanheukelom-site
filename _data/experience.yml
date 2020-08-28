@@ -1,0 +1,17 @@
+- layout: left
+  company: Roboteurs
+  job_title: Junior Developer Unreal Engine 4 C++ for Autonomous Driving / Smart City Project
+  dates: May 2020 - August 2020
+  description: | # this will include new lines to allow paragraphs
+    Architected and deployed a distributed computing <mark>UE4/C++</mark> simulation for testing various sensor performance for an autonomous shuttle service.
+    Developed modular camera capture and GPS sensor implementations for both vehicles and static edge-nodes.
+    Applied trained neural networks using <mark>PyTorch</mark> to detect objects in real-time using the camera sensor.
+
+- layout: left
+  company: Bombardier / DeHavilland
+  link: https://dehavilland.com/en
+  job_title: Database Engineering Intern
+  dates: May 2019 - April 2020
+  description: | # this will include new lines to allow paragraphs
+    Full stack developer integrating dynamic frontend <mark>JavaScript</mark>/AJAX services and backend <mark>php</mark> routing to <mark>SQL</mark> queries and views for internal webapps.
+    Designed/Implemented small relational database schemas in a professional Oracle DB, performed data analysis and maintained constraints/trigger to ensure integrity.
