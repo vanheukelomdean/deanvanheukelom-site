@@ -6,7 +6,6 @@ favicon: images/favicon.ico
 name: Dean Van Heukelom
 title: Software Engineering Student
 email: vanheukelomdean@gmail.com
-website: www.github.com/vanheukelomdean
 
 # Social links
 # twitter_username: facespics
@@ -17,7 +16,7 @@ github_username:  vanheukelomdean
 # instagram_username: chillwildlife
 linkedin_username: deanvanheukelom
 # pinterest_username: jekyll
-youtube_username: globalmtb
+youtube_username: 
 # googleplus_username: +jekyll
 
 # About Section
@@ -40,10 +39,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Weight Lifting
+  Besides Software Engineering, some of my other interests and hobbies are:
    - Sports (Hockey, Basketball, Soccer)
-   - Gaming
+   - Weight Lifting
+   - Music
    - Movies
 
 # Footer
