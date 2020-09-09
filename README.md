@@ -2,6 +2,6 @@
 
 ### Description
 
-Static website used for online resume.
+Small project for online resume.
 
-Uses Jekyll to leverage premade jekyll-theme and configurable information in yml files.
+Uses Jekyll to leverage to compile configurable information stored in yml files into a static webpage.
