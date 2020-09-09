@@ -5,4 +5,8 @@
   quote: >
     An implementation of the DarkNet architecture using pytorch to classify objects in images/video
   description: | # this will include new lines to allow paragraphs
+    {:refdef: style="text-align: center;"}
+    ![image tooltip here](/assets/bike-car-bus.gif) 
+    {: refdef}
+    
     The purpose of this project was to utilize the <mark>PyTorch</mark> library to build neural network models from scratch to use in computer vision projects. The implementation focus was constructing a model architecture, forward pass of the input tensor through convolutional, upsample, route, shortcut and detecion layers, and using a combination of non max suppression and IoU techniques for reducing the detection dimensions. This is a very simple implementation, guided by this [tutorial](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/]).
