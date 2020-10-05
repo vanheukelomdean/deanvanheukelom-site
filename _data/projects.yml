@@ -1,16 +1,4 @@
 - layout: top-middle
-  name: Genre Classification by DCNN
-  link: github.com/vanheukelomdean/genre-classification-cnn
-  github: vanheukelomdean/genre-classification-cnn
-  quote: >
-    Training a convolutional neural network to extract features of audio spectrograms to predict the audio genre
-  description: | # this will include new lines to allow paragraphs
-      {:refdef: style="text-align: center;"}
-      ![image tooltip here](/images/acc.png){: .align-left}
-      ![image tooltip here](/images/loss.png){: .align-right}
-      {: refdef}
-      The project was an introduction to training neural networks with <mark>TensorFlow 2</mark>. The audio files are proscessed by a fast fourier transform for analysis in the frequency domain. The spectrograms are then exponetiated to the mel scale to reflect the frequency range of human hearing. A 2-layer CNN is used to extract feauters of the mel-spectrograms images and predict the genre of the audio piece. By the above plots, the CNN is overfitting the 1000 sample GTZAN dataset, and requires regularization techniques in addition to the dropout layers used to achieve better results on the validation set.
-- layout: top-middle
   name: YOLO Object Detection Implementation
   link: github.com/vanheukelomdean/yolo-pytorch-implementation
   github: vanheukelomdean/yolo-pytorch-implementation
@@ -21,3 +9,15 @@
     ![image tooltip here](/images/bike-car-bus.gif) 
     {: refdef}    
     The purpose of this project was to utilize the <mark>PyTorch</mark> library to build neural network models from scratch to use in computer vision projects. The implementation focus was constructing a model architecture, forward pass of the input tensor through convolutional, upsample, route, shortcut and detecion layers, and using a combination of non max suppression and IoU techniques for reducing the detection dimensions. This is a very simple implementation, guided by this [tutorial](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/]).
+- layout: top-middle
+  name: Genre Classification by DCNN
+  link: github.com/vanheukelomdean/genre-classification-cnn
+  github: vanheukelomdean/genre-classification-cnn
+  quote: >
+    Training a convolutional neural network to extract features of audio spectrograms to predict the audio genre
+  description: | # this will include new lines to allow paragraphs
+      {:refdef: style="text-align: center;"}
+      ![image tooltip here](/images/acc.png){: .align-left}
+      ![image tooltip here](/images/loss.png){: .align-right}
+      {: refdef}
+      The project was an introduction to training neural networks with <mark>TensorFlow 2</mark>. The audio files are proscessed by a fast fourier transform for analysis in the frequency domain. The spectrograms are then exponetiated to the mel scale to reflect the frequency range of human hearing. A 2-layer CNN is used to extract features of the mel-spectrograms images and predict the genre of the audio piece. As evident in the above plots, the CNN is slightly overfitting the 1000 sample GTZAN dataset, and requires regularization techniques in addition to the dropout layers used to achieve better results on the validation set.
