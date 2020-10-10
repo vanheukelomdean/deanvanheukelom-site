@@ -26,16 +26,16 @@ youtube_username:
 # about_title: About Me
 about_profile_image: images/outside_hs.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Dean Van Heukelom and I'm a student enrolled in Software Engineering at McMaster University. I am currently entering into the level 4 of 5 in my program after returning from completing 16 months of internships. 
-  I am most interested in deep learning, computer vision, sensor fusion and robotics. I am skilled at programming, designing software pipelines, high dimensional data manipulation and web development.
+  Hi, my name's Dean Van Heukelom and I'm a student enrolled in Software Engineering at McMaster University. I am currently enrolled in level 4 of 5 in my program after returning from completing 16 months of internships. 
+  I am most interested in deep learning, computer vision, sensor fusion and robotics. I am skilled at programming, designing software pipelines, high dimensional data manipulation and web development. 
   <br><br>
   {:refdef: style="text-align: center;"}
-    <mark>C++</mark>
+    <mark>C++/Java</mark>
     <mark>Python</mark>
-    <mark>Java</mark>
+    <mark>C</mark>
     <mark>JavaScript</mark>
-    <mark>php</mark>
-  {: refdef}
+    <mark>React</mark>
+  {:refdef}
 
 
 # Projects Section
@@ -50,11 +50,11 @@ experience_title: Work Experience
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Besides Software Engineering, some of my other interests and hobbies are:
-   - Sports (Hockey, Basketball, Soccer)
-   - Fitness
-   - Music
-   - Movies
+  Some of my other interests and hobbies are :
+   - Sports (hockey, basketball, soccer)
+   - Fitness training
+   - Watching MOOCs in deep learning and robotics
+   - Listening to podcasts - Lex Fridman mostly 
 
 # Footer
 footer_show_references: true
