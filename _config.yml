@@ -11,23 +11,15 @@ title: Software Engineering Student
 email: vanheukelomdean@gmail.com
 
 # Social links
-# twitter_username: facespics
 github_username:  vanheukelomdean
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: chillwildlife
 linkedin_username: deanvanheukelom
-# pinterest_username: jekyll
-youtube_username: 
-# googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/outside_hs.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Dean Van Heukelom and I'm a student enrolled in Software Engineering at McMaster University. I am currently enrolled in level 4 of 5 in my program after returning from completing 16 months of internships. 
-  I am most interested in deep learning, computer vision, sensor fusion and robotics. I am skilled at programming, designing software pipelines, high dimensional data manipulation and web development. 
+  I'm a Canadian student completing the 5th year of my Bachelors of Engineering in the program Software Engineering and Management at Mcmaster University. I have completed 24 months of internship in the AV simulation and aviation spaces.
+  I am very interested in simulation, perception and controls. I am skilled at programming and enjoy exploring ML applications.
   <br><br>
   {:refdef: style="text-align: center;"}
     <mark>C++</mark>
@@ -38,22 +30,22 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 # Projects Section
-# projects_title: Projects
+projects_title: Projects
 
 # Experience Section
 experience_title: Work Experience
 
 # Education Section
-# educaton_title: Education
+educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
+more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Some of my other interests and hobbies are :
-   - Sports (hockey, basketball, soccer)
-   - Fitness training
-   - Watching MOOCs in deep learning and robotics
-   - Listening to podcasts - Lex Fridman mostly 
+  Some of my other interests are:
+   - Play sports (hockey, soccer, basketball)
+   - Hike and run
+   - Listen to podcasts
+   - Watch movies
 
 # Footer
 footer_show_references: true
