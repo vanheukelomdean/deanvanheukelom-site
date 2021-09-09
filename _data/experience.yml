@@ -1,4 +1,11 @@
 - layout: left
+  company: Zoox
+  job_title: Agent Simulation Intern
+  dates: May 2021 - August 2021
+  description: | # this will include new lines to allow paragraphs
+    Designed a metric to assess the quality of agent positioning. Used the results of this metric to write software changes in the codebase relating to simulated agents.
+
+- layout: left
   company: Roboteurs
   job_title: Junior Developer Unreal Engine 4 C++ for Autonomous Driving / Smart City Project
   dates: May 2020 - August 2020
