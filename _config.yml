@@ -30,9 +30,8 @@ about_content: | # this will include new lines to allow paragraphs
   I am most interested in deep learning, computer vision, sensor fusion and robotics. I am skilled at programming, designing software pipelines, high dimensional data manipulation and web development. 
   <br><br>
   {:refdef: style="text-align: center;"}
-    <mark>C++/Java</mark>
+    <mark>C++</mark>
     <mark>Python</mark>
-    <mark>C</mark>
     <mark>JavaScript</mark>
     <mark>React</mark>
   {:refdef}
